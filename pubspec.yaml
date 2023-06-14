@@ -1,7 +1,7 @@
 name: buddhist_datetime_dateformat_sns
-description: fork of https://github.com/teerasej/dart-flutter-buddhist-datetime-dateformat to support sound null safety
-version: 1.0.7
-homepage: https://github.com/alandotic/dart-flutter-buddhist-datetime-dateformat
+description: fork of https://github.com/alandotic/dart-flutter-buddhist-datetime-dateformat to support flutter 3.10
+version: 1.0.8
+homepage: https://github.com/zyntelligent-tech/dart-flutter-buddhist-datetime-dateformat
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
