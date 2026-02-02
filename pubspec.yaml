@@ -1,6 +1,6 @@
 name: buddhist_datetime_dateformat_sns
 description: fork of https://github.com/alandotic/dart-flutter-buddhist-datetime-dateformat to support flutter 3.10
-version: 1.0.9
+version: 1.0.10
 homepage: https://github.com/zyntelligent-tech/dart-flutter-buddhist-datetime-dateformat
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.19.0
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
